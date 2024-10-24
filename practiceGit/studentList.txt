@@ -1,5 +1,15 @@
 Student list
 -----------------
 
-1. Juan Perez Vargas
-2. Joanna Yujra Tonconi
+<<<<<<< HEAD
+=======
+
+
+1. Joel Alvarez
+2. Diego Villarroel
+2.5 Jessica Orihuela Rojas
+3. Daria Fernandez
+4.Michelle Gonzalez Hernandez
+
+>>>>>>> 0a64fd7c1f7f33e00b2a1faed1cb4a221ebaec2e
+5. Joanna Yujra Tonconi
