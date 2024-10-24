@@ -1,4 +1,11 @@
 Student list
 -----------------
 
-1. Michelle Gonzalez Hernandez
+
+
+1. Joel Alvarez
+2. Diego Villarroel
+2.5 Jessica Orihuela Rojas
+3. Daria Fernandez
+4.Michelle Gonzalez Hernandez
+
