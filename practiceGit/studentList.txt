@@ -1,10 +1,11 @@
 Student list
 -----------------
-
-<<<<<<< HEAD
-1. Jessica Orihuela Rojas
-=======
 1. Joel Alvarez
 2. Diego Villarroel
->>>>>>> fdb46cdb49deb831be3b7c6ba1b6ad526e3948b6
-3. Arturo Morales Veliz
+3. Jessica Orihuela Rojas
+4. Daria Fernandez
+5. Michelle Gonzalez Hernandez
+6. Rhem Josafat Huarachi Machaca
+7. Joanna Yujra Tonconi
+8. Sergio Arturo Morales
+
