@@ -1,9 +1,6 @@
 Student list
-<<<<<<< HEAD
 -------------------------
-=======
------------------
->>>>>>> 9e580f527b2ed4d6749341faa6409ee3fc0883f7
+
 1. Joel Alvarez
 2. Diego Villarroel
 3. Jessica Orihuela Rojas
