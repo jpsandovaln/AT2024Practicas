@@ -1,10 +1,9 @@
 Student list
 -----------------
 
-
-
 1. Joel Alvarez
 2. Diego Villarroel
+<<<<<<< HEAD
 <<<<<<< HEAD
 3. Josemar Castro
 =======
@@ -17,3 +16,10 @@ Student list
 =======
 5. Rhem Josafat Huarachi Machaca
 >>>>>>> a484b34dbea96887a2ae80d25f1b3acbd2981879
+=======
+3. Jessica Orihuela Rojas
+4. Daria Fernandez
+5. Michelle Gonzalez Hernandez
+6. Rhem Josafat Huarachi Machaca
+7. Joanna Yujra Tonconi
+>>>>>>> 78e492f50c9085b0a29f5bfbebc719bd817bee05
