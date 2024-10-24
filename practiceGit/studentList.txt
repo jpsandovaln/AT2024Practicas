@@ -1,6 +1,5 @@
 Student list
 -----------------
 
-1. Paolo Sandoval
-2. Juan Torrez
+1. Joel Alvarez
 
