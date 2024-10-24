@@ -7,3 +7,4 @@ Student list
 1. Joel Alvarez
 2. Diego Villarroel
 >>>>>>> fdb46cdb49deb831be3b7c6ba1b6ad526e3948b6
+3. Arturo Morales
