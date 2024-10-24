@@ -1,4 +1,10 @@
 Student list
+-------------------------
 
-1. Jessica Orihuela Rojas
-2. Dayne Guerra
+1. Joel Alvarez
+2. Diego Villarroel
+3. Daria Fernandez
+4.Michelle Gonzalez Hernandez
+5. Rhem Josafat Huarachi Machaca
+6. Dayne Guerra
+7. Jessica Orihuela Rojas
