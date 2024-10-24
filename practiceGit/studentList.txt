@@ -11,5 +11,9 @@ Student list
 2.5 Jessica Orihuela Rojas
 3. Daria Fernandez
 4.Michelle Gonzalez Hernandez
+<<<<<<< HEAD
 
 >>>>>>> 0a64fd7c1f7f33e00b2a1faed1cb4a221ebaec2e
+=======
+5. Rhem Josafat Huarachi Machaca
+>>>>>>> a484b34dbea96887a2ae80d25f1b3acbd2981879
