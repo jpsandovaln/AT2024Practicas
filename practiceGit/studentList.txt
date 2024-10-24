@@ -1,5 +1,5 @@
 Student list
------------------
+-------------------------
 
 1. Joel Alvarez
 2. Diego Villarroel
@@ -22,4 +22,9 @@ Student list
 5. Michelle Gonzalez Hernandez
 6. Rhem Josafat Huarachi Machaca
 7. Joanna Yujra Tonconi
+<<<<<<< HEAD
 >>>>>>> 78e492f50c9085b0a29f5bfbebc719bd817bee05
+=======
+8. Paolo Sandoval
+9. Dayne guerra
+>>>>>>> b3921df83caa13fe5b838e62191df5a3af8c1286
