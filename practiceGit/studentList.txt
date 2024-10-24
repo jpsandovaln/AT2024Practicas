@@ -1,6 +1,5 @@
 Student list
 -----------------
-
 1. Joel Alvarez
 2. Diego Villarroel
 2.5 Jessica Orihuela Rojas
