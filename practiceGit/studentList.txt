@@ -1,5 +1,6 @@
 Student list
------------------
+-------------------------
+
 1. Joel Alvarez
 2. Diego Villarroel
 3. Jessica Orihuela Rojas
@@ -8,5 +9,4 @@ Student list
 6. Rhem Josafat Huarachi Machaca
 7. Joanna Yujra Tonconi
 8. Paolo Sandoval
-9. 
-10. 
+9. Dayne guerra
